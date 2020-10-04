@@ -1,4 +1,4 @@
-# arcolinux-iso-dev
+# arcolinux-iso-git
 
-# development
+# using latest calamares from github
 

@@ -17,8 +17,8 @@
 # set our parameters
 buildFolder="$HOME/arcolinux-build"
 outFolder="$HOME/ArcoLinux-Out"
-isoFolder="arcolinux-iso-dev"
-iso_label="arcolinux-dev-v20.11.5"
+isoFolder="arcolinux-iso-git"
+iso_label="arcolinux-git-v20.11.5"
 archisoversion=$(sudo pacman -Q archiso)
 
 echo
