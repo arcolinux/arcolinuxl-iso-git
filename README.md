@@ -1,3 +1,3 @@
-# arcolinux-iso-git
+# arcolinuxl-iso-git
 
 # using latest calamares from github
