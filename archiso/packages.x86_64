@@ -406,7 +406,7 @@ simple-scan
 #shotwell
 speedtest-cli-git
 telegram-desktop
-timeshift
+#timeshift
 tlp
 #tree
 ufw
@@ -579,8 +579,8 @@ arcolinux-qt5-git
 arcolinux-root-git
 #arcolinux-slim
 #arcolinux-slimlock-themes-git
-arcolinux-system-config-git
-#arcolinux-system-config-dev-git
+#arcolinux-system-config-git
+arcolinux-system-config-dev-git
 #arcolinuxd-system-config-git
 arcolinux-systemd-services-git
 arcolinux-termite-themes-git
@@ -939,3 +939,7 @@ alacritty-themes
 base16-alacritty-git
 xfce4-terminal-base16-colors-git
 time
+pace
+sparklines-git
+fish
+arcolinux-fish-git
