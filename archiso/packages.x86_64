@@ -308,7 +308,7 @@ ttf-ubuntu-font-family
 #adapta-gtk-theme
 arc-gtk-theme
 #arc-darkest-theme-git
-kvantum
+#kvantum
 #openbox-arc-git
 
 ###utilities
@@ -445,7 +445,7 @@ mkinitcpio-openswap
 alacritty
 appstream
 appstream-qt5
-archiso
+#archiso
 conky-lua-archers
 downgrade
 font-manager
