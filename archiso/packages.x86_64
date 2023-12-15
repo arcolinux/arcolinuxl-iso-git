@@ -551,8 +551,8 @@ arcolinux-qt5-git
 arcolinux-root-git
 #arcolinux-slim
 #arcolinux-slimlock-themes-git
-arcolinux-system-config-git
-#arcolinux-system-config-dev-git
+#arcolinux-system-config-git
+arcolinux-system-config-dev-git
 #arcolinuxd-system-config-git
 arcolinux-systemd-services-git
 #arcolinux-systemd-services-dev-git
@@ -937,3 +937,4 @@ sofirem-git
 noto-fonts-emoji
 hyfetch
 arcolinux-hyfetch-git
+kernel-modules-hook
