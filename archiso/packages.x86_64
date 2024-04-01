@@ -447,7 +447,7 @@ downgrade
 font-manager
 #glxinfo
 gitahead-bin
-grub-customizer
+#grub-customizer
 hardcode-fixer-git
 inxi
 mintstick-git
@@ -493,7 +493,7 @@ arcolinux-alacritty-git
 arcolinux-arc-kde
 arcolinux-bin-git
 arcolinux-bootloader-grub-git
-#arcolinux-btop-git
+arcolinux-btop-git
 a-candy-beauty-icon-theme-git
 #arcolinux-common-git
 arcolinux-conky-collection-git
@@ -954,10 +954,9 @@ arcolinux-app-glade-git
 noto-fonts-emoji
 hyfetch
 arcolinux-hyfetch-git
-#does this create issues?
-#kernel-modules-hook
 arcolinux-xfce-prime-git
 arcolinux-arc-dawn-git
+btop
 
 ## chaotics-aur
 #flat-remix
