@@ -250,18 +250,18 @@ dmenu
 feh
 firefox
 #flashplugin
-galculator
+#galculator
 #geany
 #gimp
 #gmrun
 #gsimplecal
-guvcview
+#guvcview
 imagemagick
 #inkscape
 #libreoffice-fresh
 lollypop
 lshw
-meld
+#meld
 #micro
 #nitrogen
 numlockx
@@ -282,14 +282,14 @@ lm_sensors
 
 ###fonts
 adobe-source-sans-fonts
-awesome-terminal-fonts
+#awesome-terminal-fonts
 noto-fonts
-ttf-bitstream-vera
+#ttf-bitstream-vera
 ttf-dejavu
 ttf-droid
 ttf-hack
-ttf-inconsolata
-ttf-liberation
+#ttf-inconsolata
+#ttf-liberation
 ttf-roboto
 ttf-roboto-mono
 ttf-ubuntu-font-family
@@ -308,8 +308,8 @@ kvantum-qt5-git
 #openbox-arc-git
 
 ###utilities
-arandr
-asciinema
+#arandr
+#asciinema
 bash-completion
 baobab
 bat
@@ -329,32 +329,32 @@ gksu
 #glances
 gnome-disk-utility
 gnome-keyring
-gnome-screenshot
+#gnome-screenshot
 #gnome-software
 #gnome-software-packagekit-plugin
 gparted
-gpick
-gtop
+#gpick
+#gtop
 hardinfo-gtk3
-hddtemp
-htop
-hunspell
-hunspell-en_US
+#hddtemp
+#htop
+#hunspell
+#hunspell-en_US
 hw-probe
-hyphen
-hyphen-en
-grsync
-intltool
+#hyphen
+#hyphen-en
+#grsync
+#intltool
 iw
-jsoncpp
+#jsoncpp
 libmtp
 laptop-detect
 lsb-release
 mlocate
-nomacs
+nomacs-qt6-git
 oh-my-zsh-git
 p7zip
-pkgfile
+#pkgfile
 plank
 playerctl
 polkit
@@ -372,13 +372,13 @@ ripgrep
 #rxvt-unicode
 simple-scan
 #shotwell
-speedtest-cli-git
+#speedtest-cli-git
 telegram-desktop
 #timeshift
 tlp
 #tree
-ufw
-gufw
+#ufw
+#gufw
 unace
 unrar
 unzip
@@ -459,11 +459,11 @@ neofetch
 #pamac-aur
 paru-git
 #peek
-pulseaudio-equalizer-ladspa
+#pulseaudio-equalizer-ladspa
 python-pyparted
 python-pywal
 rate-mirrors-bin
-scour
+#scour
 #screenkey-git
 sublime-text-4
 the_platinum_searcher-bin
@@ -475,7 +475,7 @@ the_silver_searcher
 wttr
 yad
 #yakuake
-yay-bin
+yay-git
 
 ###########################################################################
 #                               GAMES
@@ -700,10 +700,10 @@ arcolinux-config-all-desktops-git
 #                                ARCOLINUX CALAMARES
 ###########################################################################
 
-#arco-calamares
+arco-calamares
 #arco-calamares-comp
 #arco-calamares-dev
-arco-calamares-git
+#arco-calamares-git
 #arco-calamares-next
 #arco-calamares-wayland
 #arcolinux-system-installation-git
@@ -870,64 +870,64 @@ menulibre
 
 ### xfce4 group content
 # https://www.archlinux.org/groups/x86_64/xfce4/
-exo
-garcon
-thunar
-thunar-volman
-tumbler
-xfce4-appfinder
-xfce4-panel
-xfce4-power-manager
-xfce4-session
-xfce4-settings
-xfce4-terminal
-xfconf
-xfdesktop
-xfwm4
-xfwm4-themes
+#exo
+#garcon
+#thunar
+#thunar-volman
+#tumbler
+#xfce4-appfinder
+#xfce4-panel
+#xfce4-power-manager
+#xfce4-session
+#xfce4-settings
+#xfce4-terminal
+#xfconf
+#xfdesktop
+#xfwm4
+#xfwm4-themes
 
 ### xfce4-goodies group content
 # https://www.archlinux.org/groups/x86_64/xfce4-goodies/
 #mousepad
 #orage
 #parole
-ristretto
-thunar-archive-plugin
-thunar-media-tags-plugin
+#ristretto
+#thunar-archive-plugin
+#thunar-media-tags-plugin
 #xfburn
 #xfce4-artwork
-xfce4-battery-plugin
-xfce4-clipman-plugin
-xfce4-cpufreq-plugin
-xfce4-cpugraph-plugin
-xfce4-datetime-plugin
-xfce4-dict
-xfce4-diskperf-plugin
-xfce4-eyes-plugin
-xfce4-fsguard-plugin
-xfce4-genmon-plugin
-xfce4-mailwatch-plugin
-xfce4-mount-plugin
-xfce4-mpc-plugin
-xfce4-netload-plugin
-xfce4-notes-plugin
-xfce4-notifyd
-xfce4-pulseaudio-plugin
-xfce4-screensaver
-xfce4-screenshooter
-xfce4-sensors-plugin
-xfce4-smartbookmark-plugin
-xfce4-systemload-plugin
-xfce4-taskmanager
-xfce4-time-out-plugin
-xfce4-timer-plugin
-xfce4-verve-plugin
-xfce4-wavelan-plugin
-xfce4-weather-plugin
-xfce4-whiskermenu-plugin
-xfce4-xkb-plugin
+#xfce4-battery-plugin
+#xfce4-clipman-plugin
+#xfce4-cpufreq-plugin
+#xfce4-cpugraph-plugin
+#xfce4-datetime-plugin
+#xfce4-dict
+#xfce4-diskperf-plugin
+#xfce4-eyes-plugin
+#xfce4-fsguard-plugin
+#xfce4-genmon-plugin
+#xfce4-mailwatch-plugin
+#xfce4-mount-plugin
+#xfce4-mpc-plugin
+#xfce4-netload-plugin
+#xfce4-notes-plugin
+#xfce4-notifyd
+#xfce4-pulseaudio-plugin
+#xfce4-screensaver
+#xfce4-screenshooter
+#xfce4-sensors-plugin
+#xfce4-smartbookmark-plugin
+#xfce4-systemload-plugin
+#xfce4-taskmanager
+#xfce4-time-out-plugin
+#xfce4-timer-plugin
+#xfce4-verve-plugin
+#xfce4-wavelan-plugin
+#xfce4-weather-plugin
+#xfce4-whiskermenu-plugin
+#xfce4-xkb-plugin
 
-xfce4-panel-profiles
+#xfce4-panel-profiles
 
 ###########################################################################
 #                                ISO SPECIFIC
@@ -939,7 +939,7 @@ arcolinux-meta-log
 #tempus-themes-xfce4-terminal-git
 #prot16-xfce4-terminal
 alacritty-themes
-base16-alacritty-git
+#base16-alacritty-git
 #xfce4-terminal-base16-colors-git
 time
 pace
@@ -949,7 +949,6 @@ arcolinux-fish-git
 ripgrep-all
 #archlinux-login-backgrounds-plain-git
 vimix-cursors
-mkinitcpio-firmware
 arcolinux-app-glade-git
 noto-fonts-emoji
 hyfetch
@@ -957,7 +956,11 @@ arcolinux-hyfetch-git
 arcolinux-xfce-prime-git
 arcolinux-arc-dawn-git
 btop
+xfce4
+xfce4-goodies
+mkinitcpio-firmware
 
 ## chaotics-aur
 #flat-remix
 #colloid-cursors-git
+arconet-calamares-config
